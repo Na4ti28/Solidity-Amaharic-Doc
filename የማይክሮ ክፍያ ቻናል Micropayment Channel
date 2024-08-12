@@ -1,0 +1,10 @@
+-Creating and verifying signatures
+-Creating the signature
+-What to Sign
+-Packing arguments
+-Recovering the Message Signer in Solidity
+-Extracting the Signature Parameters
+-Computing the Message Hash
+-The full contract
+
+
